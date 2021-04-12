@@ -2,7 +2,6 @@ Package: com.terryphua.testy
 Version: 369
 Architecture: iphoneos-arm
 Maintainer: @terry._.phua <phuachenghongterry@gmail.com>
-Depends: mobilesubstrate
 Filename: ./debs/testy.deb
 Size: 79768
 MD5sum: f6340c6d34689b7d2894fc0f643f1c56
@@ -12,6 +11,7 @@ Section: Themes
 Description: test theme
 Author: @terry._.phua <phuachenghongterry@gmail.com>
 Name: Testy
+
 
 
 
