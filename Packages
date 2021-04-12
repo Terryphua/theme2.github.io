@@ -1,16 +1,17 @@
-Package: com.terryphua.testy
-Version: 369
+Package: com.terryphua.gradientpurple
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: @terry._.phua <phuachenghongterry@gmail.com>
-Filename: ./debs/testy.deb
-Size: 79768
-MD5sum: f6340c6d34689b7d2894fc0f643f1c56
-SHA1: 202dc5e3c80bcbc1b00ec4b0ed496cfb25b4b2e3
-SHA256: 05e1fd1406bb2dff231ce854e21cfccb33263b1646ce4614a52685c9cc990bfe
+Filename: ./debs/GradPurp.deb
+Size: 4655530
+MD5sum: acee3f874c5cb2360523df5b51256c29
+SHA1: 81ef95c1409dc2354df2046ceda755f857a3e62a
+SHA256: 13fda53cabfb688f8e5ad9df0f8024f08e370bcbfdd99512c1575bcb19885bb0
 Section: Themes
-Description: test theme
+Description: Awesome Gradient Purple Theme
 Author: @terry._.phua <phuachenghongterry@gmail.com>
-Name: Testy
+Name: Grad Purp
+
 
 
 
