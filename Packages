@@ -1,0 +1,16 @@
+Package: com.terryphua.testy
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @terry._.phua <phuachenghongterry@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/testy.deb
+Size: 79768
+MD5sum: f6340c6d34689b7d2894fc0f643f1c56
+SHA1: 202dc5e3c80bcbc1b00ec4b0ed496cfb25b4b2e3
+SHA256: 05e1fd1406bb2dff231ce854e21cfccb33263b1646ce4614a52685c9cc990bfe
+Section: Themes
+Description: Awesome Gradient Purple Theme
+Author: @terry._.phua <phuachenghongterry@gmail.com>
+Name: Testy
+
+
